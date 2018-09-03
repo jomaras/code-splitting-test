@@ -18,7 +18,7 @@ module.exports = (env = {}) => {
             extensions:[".js", ".ts", ".tsx"],
         },
         plugins: [
-            new BundleAnalyzerPlugin(),
+            //new BundleAnalyzerPlugin(),
             new HtmlWebpackPlugin({
                 filename: './../../index.html',
                 template: './src/index.html'

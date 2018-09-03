@@ -6,7 +6,6 @@ export const ColorPicker = {
             const colorSelector = e.target as HTMLSelectElement;
             const colorContainer = document.querySelector("#color-picker-app .color-container");
 
-
             colorContainer.classList.remove("red");
             colorContainer.classList.remove("green");
             colorContainer.classList.remove("blue");
