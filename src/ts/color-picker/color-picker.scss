@@ -1,0 +1,18 @@
+#color-picker-app {
+    .color-container {
+        height: 800px;
+        background-color: red;
+
+        &.red {
+            background-color: red;
+        }
+
+        &.green {
+            background-color: green;
+        }
+
+        &.blue {
+            background-color: blue;
+        }
+    }
+}
