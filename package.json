@@ -24,7 +24,8 @@
     "classnames": "^2.2.6",
     "core-js": "^2.5.7",
     "react": "^16.4.2",
-    "react-dom": "^16.4.2"
+    "react-dom": "^16.4.2",
+    "typescript-components-test": "https://github.com/jomaras/typescript-components-test"
   },
   "devDependencies": {
     "@types/react-dom": "^16.0.7",

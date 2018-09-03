@@ -4112,6 +4112,16 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
+"typescript-components-test@https://github.com/jomaras/typescript-components-test":
+  version "1.0.0"
+  resolved "https://github.com/jomaras/typescript-components-test#047448dd5c825a9fb143f841d26b956ca0656ef6"
+  dependencies:
+    "@types/react" "^16.4.13"
+    classnames "^2.2.6"
+    core-js "^2.5.7"
+    react "^16.4.2"
+    react-dom "^16.4.2"
+
 typescript@^3.0.3:
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.0.3.tgz#4853b3e275ecdaa27f78fda46dc273a7eb7fc1c8"
